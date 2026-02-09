@@ -31,7 +31,7 @@
       <material
         name="">
         <color
-          rgba="0 0 0 1" />
+          rgba="0.15 0.15 0.15 1" />
       </material>
     </visual>
     <visual>
@@ -113,7 +113,7 @@
       <material
         name="">
         <color
-          rgba="0 0 0 1" />
+          rgba="0.15 0.15 0.15 1" />
       </material>
     </visual>
     <visual>
@@ -180,7 +180,7 @@
       <material
         name="">
         <color
-          rgba="0 0 0 1" />
+          rgba="0.15 0.15 0.15 1" />
       </material>
     </visual>
     <visual>
@@ -247,7 +247,7 @@
       <material
         name="">
         <color
-          rgba="0 0 0 1" />
+          rgba="0.15 0.15 0.15 1" />
       </material>
     </visual>
     <visual>
@@ -314,7 +314,7 @@
       <material
         name="">
         <color
-          rgba="0 0 0 1" />
+          rgba="0.15 0.15 0.15 1" />
       </material>
     </visual>
     <visual>

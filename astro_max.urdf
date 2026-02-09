@@ -26,7 +26,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://astro_max/meshes/visual/body_frd.STL" />
+          filename="meshes/visual/body_frd.STL" />
       </geometry>
       <material
         name="">
@@ -40,7 +40,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://astro_max/meshes/visual/sl8_top_labels.STL" />
+          filename="meshes/visual/sl8_top_labels.STL" />
       </geometry>
       <material
         name="">
@@ -54,7 +54,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://astro_max/meshes/visual/leds_front.STL" />
+          filename="meshes/visual/leds_front.STL" />
       </geometry>
       <material
         name="">
@@ -68,7 +68,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://astro_max/meshes/visual/leds_back.STL" />
+          filename="meshes/visual/leds_back.STL" />
       </geometry>
       <material
         name="">
@@ -82,7 +82,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://astro_max/meshes/collision/body_frd.STL" />
+          filename="meshes/collision/body_frd.STL" />
       </geometry>
     </collision>
   </link>
@@ -108,7 +108,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://astro_max/meshes/visual/rotor_ccw.STL" />
+          filename="meshes/visual/rotor_ccw.STL" />
       </geometry>
       <material
         name="">
@@ -122,7 +122,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://astro_max/meshes/visual/prop_bolts_ccw.STL" />
+          filename="meshes/visual/prop_bolts_ccw.STL" />
       </geometry>
       <material
         name="">
@@ -136,7 +136,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://astro_max/meshes/collision/rotor_ccw.STL" />
+          filename="meshes/collision/rotor_ccw.STL" />
       </geometry>
     </collision>
   </link>
@@ -175,7 +175,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://astro_max/meshes/visual/rotor_cw.STL" />
+          filename="meshes/visual/rotor_cw.STL" />
       </geometry>
       <material
         name="">
@@ -189,7 +189,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://astro_max/meshes/visual/prop_bolts_cw.STL" />
+          filename="meshes/visual/prop_bolts_cw.STL" />
       </geometry>
       <material
         name="">
@@ -203,7 +203,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://astro_max/meshes/collision/rotor_cw.STL" />
+          filename="meshes/collision/rotor_cw.STL" />
       </geometry>
     </collision>
   </link>
@@ -242,7 +242,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://astro_max/meshes/visual/rotor_ccw.STL" />
+          filename="meshes/visual/rotor_ccw.STL" />
       </geometry>
       <material
         name="">
@@ -256,7 +256,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://astro_max/meshes/visual/prop_bolts_ccw.STL" />
+          filename="meshes/visual/prop_bolts_ccw.STL" />
       </geometry>
       <material
         name="">
@@ -270,7 +270,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://astro_max/meshes/collision/rotor_ccw.STL" />
+          filename="meshes/collision/rotor_ccw.STL" />
       </geometry>
     </collision>
   </link>
@@ -309,7 +309,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://astro_max/meshes/visual/rotor_cw.STL" />
+          filename="meshes/visual/rotor_cw.STL" />
       </geometry>
       <material
         name="">
@@ -323,7 +323,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://astro_max/meshes/visual/prop_bolts_cw.STL" />
+          filename="meshes/visual/prop_bolts_cw.STL" />
       </geometry>
       <material
         name="">
@@ -337,7 +337,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://astro_max/meshes/collision/rotor_cw.STL" />
+          filename="meshes/collision/rotor_cw.STL" />
       </geometry>
     </collision>
   </link>
